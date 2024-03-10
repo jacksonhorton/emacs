@@ -44,7 +44,6 @@ version-control t)
 (load "~/.emacs.d/jackson/jackson-temps.el")
 (load "~/.emacs.d/jackson/jackson-lsp.el")
 (load "~/.emacs.d/jackson/jackson-drag-stuff.el")
-(load "~/.emacs.d/jackson/jackson-keybinds.el")
 
 
 ;; lsp
